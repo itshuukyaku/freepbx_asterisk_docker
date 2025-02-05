@@ -111,4 +111,14 @@ service asterisk restart
 ## ログイン画面
 ![alt text](./imgaes/login.png)
 
+## コミットメッセージ規約
+1. `commitlint`とその依存関係をインストールします。
+    ```bash
+    npm install
+    ```
+
+2. `husky`をインストールして、コミットメッセージのチェックを自動化します。
+    ```bash
+    npx husky install
+    ```
 
