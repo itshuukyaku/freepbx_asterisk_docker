@@ -112,6 +112,8 @@ service asterisk restart
 ![alt text](./imgaes/login.png)
 
 ## コミットメッセージ規約
+## 必要なNode.jsのバージョンは `>=14.0.0` です。
+
 1. `commitlint`とその依存関係をインストールします。
     ```bash
     npm install
